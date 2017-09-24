@@ -1,0 +1,169 @@
+{\rtf1}
+header{
+	width: 100%;	
+	height: 200px;
+	background-color: #f5f5f5;
+}
+main{
+	max-width: 1024px;	
+	height: 100%;
+	background-color: #f5f5f5;
+	margin: 0 auto;
+}
+.logo{
+	width: 200px;
+	height: 200px;
+	/* background-color: #4646; */
+	/* background-image: url('../img/33.png'); */
+	float: left;
+}
+.h-span{
+	font-size: 20px;	
+	color: #000;
+	float: right;
+	margin-top: 100px;
+	margin-left: 20px;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+section{
+	position: relative;
+}
+.banner{
+	width: 100%;
+	height: 900px;
+	position: relative;
+}
+
+.zhezhao{
+	position: absolute;
+	width: 100%;
+	height: 900px;
+	top: 0;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+.zhezhao p{
+	font-size: 14px;
+
+	margin-top: 20px;
+}
+.zhezhao main{
+	background-color: rgba(0, 0, 0, 0);
+}
+.wenzi1{
+	width: 100%;
+	height: 70px;
+}
+.wenzi1 p1{
+	font-size: 24px;
+	line-height: 70px;
+}
+.biaoti{
+	width: 100%;
+	height: 80px;
+	background-color: #f5f5f5;
+}
+.biaoti a{
+	display: block;
+	font-size: 25px;
+	color: #ff6700;
+	text-align: center;
+	line-height: 80px;
+}
+.zhengwen{
+	width: 60%;
+	height: 800px;
+
+}
+
+.weibu{
+	width: 100%;
+	height: 270px;
+	background-color: #f5f5f5;
+	position: relative;
+	overflow: hidden;
+}
+
+.weibu-top{
+	width: 100%;
+	height: 200px;
+	background-color: #f5f5f5;
+	margin-top: 20px;
+}
+.weibu-wenzi{
+	width: 33%;
+	height: 100%;
+	float: left;
+	display: flex;
+	flex-direction: column;
+
+}
+.weibu-wenzi span{
+	display: inline-block;
+	font-size: 18px;
+	color: #464646;
+	text-align: center;
+	padding-top: 10px;
+
+}
+.kong-box{
+	width: 100%;
+	height: 30px;
+}
+.weibu-wenzi a{
+	display: inline-block;
+	font-size: 14px;
+	color: #888;
+
+	text-align: center;
+
+}
+.weibu-wenzi1{
+	width: 33%;
+	height: 100%;
+	float: left;
+	display: flex;
+	flex-direction: column;
+
+}
+.weibu-wenzi1 span{
+	/* display: block; */
+	font-size: 18px;
+	color: #464646;
+	text-align: center;
+	padding-top: 10px;
+}
+.weibu-wenzi1 .kong-box{
+	width: 100%;
+	height: 60px;
+}
+
+.weibu-wenzi1 a{
+	display: inline-block;
+	font-size: 14px;
+	color: #888;
+
+	text-align: center;
+
+}
+.weibu h2{
+	/* position: absolute; */
+	/* left: 0; */
+	/* bottom: 0; */
+	font-size: 14px;
+	color: #b0b0b0;
+	text-align: center;
+	line-height: 20px;
+	/* margin-top: 20px; */
+}
+.weibu h1{
+	/* position: absolute; */
+	/* left: 0; */
+	/* bottom: 20px; */
+	font-size: 14px;
+	color: #b0b0b0;
+	text-align: center;
+	line-height: 20px;
+}
